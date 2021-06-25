@@ -1,0 +1,2 @@
+D:\Learning_Data\算法分析与设计（双语）\Recursion_Part1\Debug\Recursion_Part1.exe
+D:\Learning_Data\算法分析与设计（双语）\Recursion_Part1\Debug\Recursion_Part1.pdb
